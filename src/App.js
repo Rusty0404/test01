@@ -18,8 +18,7 @@ export default class App extends React.Component {
         <div>
           <HeaderComponent />
           <Slider />
-          <Main />
-          <MyMaps />
+         <Main />
         </div>
     );
   }

@@ -26,7 +26,7 @@ const MyMaps = () => {
             <p>※喫煙ルームをご利用ください</p>
             <hr />
         <div className="google-maps">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104258.90101046054!2d139.079116687558!3d35.25400035635057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019a45893a8d1cf%3A0xa2f424ebb37f8e55!2z56We5aWI5bed55yM5bCP55Sw5Y6f5biC!5e0!3m2!1sja!2sjp!4v1618336570545!5m2!1sja!2sjp" width="750" height="450" style={{border:0}} allowfullscreen="" loading="lazy"></iframe><br />
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104258.90101046054!2d139.079116687558!3d35.25400035635057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019a45893a8d1cf%3A0xa2f424ebb37f8e55!2z56We5aWI5bed55yM5bCP55Sw5Y6f5biC!5e0!3m2!1sja!2sjp!4v1618336570545!5m2!1sja!2sjp" width="750" height="450" style={{border:0}} allowFullScreen="" loading="lazy"></iframe><br />
         </div><br />
         <div className="Access-train">
             <hr />
